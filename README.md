@@ -1,2 +1,2 @@
 # turtle_game
-jython complex turtle maze 
+Python turtle maze game 
